@@ -24,6 +24,8 @@ FinOps is shorthand for “Cloud Financial Operations” or “Cloud Financial M
 ## Books
 
 - [FinOps Book](https://www.finops.org/resources/finops-book/) - Seminal book by founders of the FinOps Foundation.
+- [Practical FinOps](https://www.manning.com/books/practical-finops) - A book about managing cloud cost, visibility, and accountability.
+
 
 ## Tools
 
